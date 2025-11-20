@@ -8,7 +8,7 @@ namespace Locadora.Controller
 {
     public class ClienteController
     {
-        public void AdicionarCliente(Cliente cliente)
+        public void AdicionarCliente(Cliente cliente, Documento documento)
         {
             var connection = new SqlConnection(ConnectionDB.GetConnectionString());
 
@@ -28,18 +28,23 @@ namespace Locadora.Controller
 
                     cliente.setClienteID(clienteId);
 
-                    transaction.Commit();   
-                }
+                    var DocumentoController = new DocumentoController();
+
+
+                    documento.setClienteID(clienteId);
+
+                    DocumentoController.AdicionarDocumento(documento, connection, transaction);
+
+                    transaction.Commit();
+                    }
                 catch (SqlException ex)
                 {
-                   
                     throw new Exception("Erro de SQL ao adicionar cliente " + ex.Message);
                 }
                 catch (Exception ex)
                 {
-                    
                     throw new Exception("Erro ao adicionar cliente " + ex.Message);
-                } 
+                }
                 finally
                 {
                     connection.Close();
@@ -51,7 +56,7 @@ namespace Locadora.Controller
         {
             var connection = new SqlConnection(ConnectionDB.GetConnectionString());
 
-                connection.Open();
+            connection.Open();
             try
             {
 
@@ -74,7 +79,7 @@ namespace Locadora.Controller
 
                     clientes.Add(cliente);
                 }
-            return clientes;
+                return clientes;
             }
             catch (SqlException ex)
             {
@@ -89,15 +94,15 @@ namespace Locadora.Controller
                 connection.Close();
             }
 
-           
-            
+
+
         }
 
         public Cliente BuscaClientePorEmail(string email)
         {
             SqlConnection connection = new SqlConnection(ConnectionDB.GetConnectionString());
 
-                connection.Open();
+            connection.Open();
             try
             {
                 SqlCommand command = new SqlCommand(Cliente.SELECTCLIENTEPOREMAIL, connection);
@@ -146,10 +151,10 @@ namespace Locadora.Controller
                 throw new Exception("Não existe cliente com esse email cadastrado!");
 
             clienteEncontrado.setTelefone(telefone);
-    
+
             SqlConnection connection = new SqlConnection(ConnectionDB.GetConnectionString());
-             
-                connection.Open();
+
+            connection.Open();
             try
             {
                 SqlCommand command = new SqlCommand(Cliente.UPDATEFONECLIENTE, connection);
@@ -170,6 +175,37 @@ namespace Locadora.Controller
                 connection.Close();
             }
         }
-    }
+
+        public void DeletarCLientePorEmail(string email) {
+
+            SqlConnection connection = new SqlConnection(ConnectionDB.GetConnectionString());
+
+                var clienteEncontrado = BuscaClientePorEmail(email);
+                connection.Open();
+
+                if (clienteEncontrado is null) {
+                    throw new Exception("Nao existe cliente com esse email cadastrado");
+                    return;
+                }
+            try
+            {
+                SqlCommand command = new SqlCommand(Cliente.DELETECLIENTE, connection);
+                command.Parameters.AddWithValue("@IdCliente", clienteEncontrado.ClienteID);
+                command.ExecuteNonQuery();
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("Erro no BD ao deletar no cliente" + ex.Message);
+            }
+            catch (Exception ex) {
+                throw new Exception("Erro ao deletar cliente" + ex.Message);
+                    }
+            finally {
+                connection.Close();
+            }
+        
+
+    } 
+        }
 }
 //colocar os usings corretos e fazer o delete por id depois
