@@ -18,6 +18,12 @@ namespace Locadora.Models
             Descricao = @Descricao, 
             Diaria = @Diaria 
             WHERE CategoriaID = @CategoriaID";
+
+        public readonly static string BUSCARCATEGORIAPORNOME = 
+            @"SELECT * FROM tblCategorias WHERE Nome = @Nome";
+
+        public readonly static string SELECTALLCATEGORIA = 
+            @"SELECT * FROM tblCategorias";
         public int CategoriaId { get; private set; }
         public string Nome { get; private set; }
         public string Descricao { get; private set; }

@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Locadora.Models;
+using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Locadora.Models;
-using Microsoft.Data.SqlClient;
+using Utils.Databases;
 
 
 namespace Locadora.Controller
@@ -31,6 +32,85 @@ namespace Locadora.Controller
             catch (Exception e)
             {
                 throw new Exception("Erro inesperado ao adicionar categoria: " + e.Message);
+            }
+        }
+        public Categoria BuscarCategoriaPorNome(string nome)
+        {
+            var connection = new SqlConnection(ConnectionDB.GetConnectionString());
+            connection.Open();
+            try
+            {
+                var command = new SqlCommand(Categoria.BUSCARCATEGORIAPORNOME, connection);
+
+                command.Parameters.AddWithValue("@Nome", nome);
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    var categoria = new Categoria(
+                                                    reader["Nome"].ToString(),
+                                                    reader["Descricao"] != DBNull.Value ?
+                                                    reader["Descricao"].ToString() : null,
+                                                    Convert.ToDecimal(reader["Diaria"])
+                                                 );
+                    categoria.setCategoriaID(Convert.ToInt32(reader["CategoriaID"]));
+                    return categoria;
+                }
+                else
+                    return null;
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("Erro ao buscar categoria " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Erro inesperado ao buscar categoria " + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+        }
+        public List<Categoria> ListarTodasCategorias()
+        {
+            var connection = new SqlConnection(ConnectionDB.GetConnectionString());
+
+            connection.Open();
+            try
+            {
+                var command = new SqlCommand(Categoria.SELECTALLCATEGORIA, connection);
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                List<Categoria> listaCategoria = new List<Categoria>();
+
+                while (reader.Read())
+                {
+                    var categoria = new Categoria(
+                                                    reader["Nome"].ToString(),
+                                                    reader["Descricao"] != DBNull.Value ?
+                                                    reader["Descricao"].ToString() : null,
+                                                    Convert.ToDecimal(reader["Diaria"])
+                                                 );
+                    categoria.setCategoriaID(Convert.ToInt32(reader["CategoriaID"]));
+
+                    listaCategoria.Add(categoria);
+                }
+                return listaCategoria;
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception("Não foi possível listar todas categorias " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Erro inesperado ao listar todas categorias " + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
             }
         }
         public void AtualizarCategoria(Categoria categoria, SqlConnection connection, SqlTransaction transaction)
