@@ -7,20 +7,26 @@ using System.Threading.Tasks;
 namespace Locadora.Models
 {
     public class Documento
-
     {
-        public static readonly string INSERTDOCUMENTO = "INSERT INTO tblDocumentos (ClienteID, TipoDocumento, Numero, DataEmissao, DataValidade) " +
+        public static readonly string INSERTDOCUMENTO = "INSERT INTO tblDocumentos " +
+            "(ClienteID, TipoDocumento, Numero, DataEmissao, DataValidade) " +
             "VALUES (@ClienteID, @TipoDocumento, @Numero, @DataEmissao, @DataValidade)";
 
+        public static readonly string UPDATEDOCUMENTO = @"UPDATE tblDocumentos
+                                                            SET TipoDocumento = @TipoDocumento,
+                                                            Numero = @Numero,
+                                                            DataEmissao = @DataEmissao,
+                                                            DataValidade = @DataValidade
+                                                            WHERE ClienteID = @IdCliente";
 
         public int DocumentoID { get; private set; }
         public int ClienteID { get; private set; }
         public string TipoDocumento { get; private set; }
         public string Numero { get; private set; }
-        public DateTime DataEmissao { get; private set; }
-        public DateTime DataValidade { get; private set; }
+        public DateOnly DataEmissao { get; private set; }
+        public DateOnly DataValidade { get; private set; }
 
-        public Documento (string tipoDocumento, string numero, DateTime dataEmissao, DateTime dataValidade)
+        public Documento(string tipoDocumento, string numero, DateOnly dataEmissao, DateOnly dataValidade)
         {
             TipoDocumento = tipoDocumento;
             Numero = numero;
@@ -28,15 +34,15 @@ namespace Locadora.Models
             DataValidade = dataValidade;
         }
 
-        public void setClienteID(int clienteID)
+        public void setClienteID(int clienteId)
         {
-            ClienteID = clienteID;
+            ClienteID = clienteId;
         }
 
-
-        public override string ToString()
+        public override string? ToString()
         {
-            return $"TipoDocumento: {TipoDocumento}\nNumero: {Numero}\nDataEmissao: {DataEmissao}\nDataValidade: {DataValidade}\n";
+            return $"Tipo: {TipoDocumento}\nNumero: {Numero}\n" +
+                $"Data de Emissão: {DataEmissao}\nData de Validade: {DataValidade}\n";
         }
     }
 }
