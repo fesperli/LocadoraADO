@@ -1,64 +1,60 @@
 ﻿using Locadora.Models;
 using Microsoft.Data.SqlClient;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Utils.Databases;
 
 
 namespace Locadora.Controller
-{ 
+{
     public class CategoriaController
     {
-        public void AdicionarCategoria(Categoria categoria, SqlConnection connection, SqlTransaction transaction)
+        public void AdicionarCategoria(Categoria categoria)
         {
+            SqlConnection connection = new SqlConnection(ConnectionDB.GetConnectionString());
+
+            connection.Open();
             try
             {
-                using SqlCommand command = new(Categoria.INSERTCATEGORIA, connection, transaction);
+                using SqlCommand command = new(Categoria.INSERTCATEGORIA, connection);
 
-                command.Parameters.AddWithValue("@CategoriaID", categoria.CategoriaId);
                 command.Parameters.AddWithValue("@Nome", categoria.Nome);
-                command.Parameters.AddWithValue("@Descricao", categoria.Descricao);
+                command.Parameters.AddWithValue("@Descricao", categoria.Descricao ?? (object)DBNull.Value);
                 command.Parameters.AddWithValue("@Diaria", categoria.Diaria);
 
                 command.ExecuteNonQuery();
             }
-            catch (SqlException e)
+            catch (SqlException ex)
             {
-                throw new Exception("Erro ao adicionar categoria: " + e.Message);
+                throw new Exception("Erro ao adicionar categoria: " + ex.Message);
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                throw new Exception("Erro inesperado ao adicionar categoria: " + e.Message);
+                throw new Exception("Erro inesperado ao adicionar categoria: " + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
             }
         }
-        public Categoria BuscarCategoriaPorNome(string nome)
+        public string BuscarNomeCategoriaPorId(int id)
         {
             var connection = new SqlConnection(ConnectionDB.GetConnectionString());
             connection.Open();
             try
             {
-                var command = new SqlCommand(Categoria.BUSCARCATEGORIAPORNOME, connection);
+                var command = new SqlCommand(Categoria.SELECTNOMECATEGORIAPORID, connection);
 
-                command.Parameters.AddWithValue("@Nome", nome);
+                command.Parameters.AddWithValue("@Id", id);
+
+                string nomecategoria = string.Empty;
 
                 SqlDataReader reader = command.ExecuteReader();
 
                 if (reader.Read())
                 {
-                    var categoria = new Categoria(
-                                                    reader["Nome"].ToString(),
-                                                    reader["Descricao"] != DBNull.Value ?
-                                                    reader["Descricao"].ToString() : null,
-                                                    Convert.ToDecimal(reader["Diaria"])
-                                                 );
-                    categoria.setCategoriaID(Convert.ToInt32(reader["CategoriaID"]));
-                    return categoria;
+                    nomecategoria = reader["Nome"].ToString() ?? string.Empty;
+
                 }
-                else
-                    return null;
+                    return nomecategoria;
             }
             catch (SqlException ex)
             {
@@ -80,7 +76,7 @@ namespace Locadora.Controller
             connection.Open();
             try
             {
-                var command = new SqlCommand(Categoria.SELECTALLCATEGORIA, connection);
+                var command = new SqlCommand(Categoria.SELECTNOMECATEGORIAPORID, connection);
 
                 SqlDataReader reader = command.ExecuteReader();
 
