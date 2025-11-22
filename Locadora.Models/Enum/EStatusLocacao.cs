@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Locadora.Models.Enum
 {
-    public enum ESatusLocacao
+    public enum EStatusLocacao
     {
         Ativa,
         Concluida,
