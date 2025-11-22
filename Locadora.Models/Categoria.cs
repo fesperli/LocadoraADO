@@ -9,8 +9,7 @@ namespace Locadora.Models
     public class Categoria
     {
         public static readonly string INSERTCATEGORIA =
-            @"INSERT INTO tblCategorias (Nome, Descricao, Diaria) 
-            VALUES (@Nome, @Descricao, @Diaria)";
+            @"EXEC sp_AdicionarCategoria @Nome, @Descricao, @Diaria;";
 
         public static readonly string UPDATECATEGORIA =
             @"UPDATE tblCategorias 
@@ -22,8 +21,8 @@ namespace Locadora.Models
         public readonly static string BUSCARCATEGORIAPORNOME = 
             @"SELECT * FROM tblCategorias WHERE Nome = @Nome";
 
-        public readonly static string SELECTALLCATEGORIA = 
-            @"SELECT * FROM tblCategorias";
+        public readonly static string SELECTNOMECATEGORIAPORID = 
+            @"SELECT Nome FROM tblCategorias WHERE CategoriaID = @Id";
         public int CategoriaId { get; private set; }
         public string Nome { get; private set; }
         public string Descricao { get; private set; }
