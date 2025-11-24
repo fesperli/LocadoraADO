@@ -1,4 +1,4 @@
-# Locadora.View
+# Exercicio InterAcao LocadoraMVC
 
 Este trabalho foi desenvolvido por um grupo de 4 integrantes:
 
