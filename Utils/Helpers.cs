@@ -29,5 +29,33 @@ namespace Utils
                 Console.WriteLine("Valor inválido, tente novamente.");
             }
         }
+        public static DateTime LerDataTempo (string mensagem)
+        {
+            DateTime data;
+            while (true)
+            {
+                Console.Write(mensagem);
+                var input = Console.ReadLine();
+                if (DateTime.TryParse(input, out data))
+                {
+                    return data;
+                }
+                Console.WriteLine("Data inválida, tente novamente.");
+            }
+        }
+        public static DateOnly LerData (string mensagem)
+        {
+            DateOnly data;
+            while (true)
+            {
+                Console.Write(mensagem);
+                var input = Console.ReadLine();
+                if (DateOnly.TryParse(input, out data))
+                {
+                    return data;
+                }
+                Console.WriteLine("Data inválida, tente novamente.");
+            }
+        }
     }
 }

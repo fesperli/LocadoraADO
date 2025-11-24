@@ -65,10 +65,10 @@ namespace Locadora.View.Clientes
                 var numeroDocumento = Console.ReadLine();
 
                 Console.WriteLine("\nDigite a data de emissão do documento:");
-                var dataEmissao = DateOnly.Parse(Console.ReadLine());
-                
+                var dataEmissao = Helpers.LerData("Data de Emissão (dd/mm/aaaa): ");
+
                 Console.WriteLine("\nDigite a data de validade do documento:");
-                var dataValidade = DateOnly.Parse(Console.ReadLine());
+                var dataValidade = Helpers.LerData("Data de Validade (dd/mm/aaaa): ");
 
                 var cliente = new Cliente(
                     nomeCliente,
