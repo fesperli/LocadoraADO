@@ -60,10 +60,10 @@ namespace Locadora.View.Clientes
                     var emailCliente = Console.ReadLine();
 
                     Console.WriteLine("\nDigite o novo tipo de documento do cliente:");
-                    var tipoDocumento = Console.ReadLine();
+                    var tipoDocumento = SelecionarDocumento();
 
                     Console.WriteLine("\nDigite o novo número de documento do cliente:");
-                    var numeroDocumento = SelecionarDocumento();
+                    var numeroDocumento = Helpers.SolicitarNumeroDocumento(tipoDocumento);
 
                     Console.WriteLine("\nDigite a data de emissão do documento:");
                     var dataEmissao = Helpers.LerData("Data de Emissão (dd/mm/aaaa): ");

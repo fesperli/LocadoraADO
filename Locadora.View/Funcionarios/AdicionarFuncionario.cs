@@ -1,5 +1,6 @@
 ﻿using Locadora.Controller;
 using Locadora.Models;
+using Locadora.Models.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,7 +22,7 @@ namespace Locadora.View.Funcionarios
                 var nome = Console.ReadLine();
 
                 Console.WriteLine("\nDigite o CPF do funcionário:");
-                var cpf = Console.ReadLine();
+                var cpf = Helpers.SolicitarNumeroDocumento(ETiposDocumentos.CPF.ToString());
 
                 Console.WriteLine("\nDigite o Email do funcionário:");
                 var email = Console.ReadLine();

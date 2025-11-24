@@ -54,15 +54,15 @@ namespace Locadora.View.Clientes
                 var emailCliente = Console.ReadLine();
 
                 Console.Write("\nDigite o telefone do cliente: ");
-                var telefoneCliente = Console.ReadLine();
+                var telefoneCliente = Helpers.SolicitarTelefone();
 
                 Console.Clear();
                 Console.WriteLine("======= DOCUMENTO DO CLIENTE =======");
                 Console.WriteLine("Digite o tipo de documento do cliente:");
-                var tipoDocumento = Console.ReadLine();
+                var tipoDocumento = SelecionarDocumento();
 
                 Console.WriteLine("\nDigite o número de documento do cliente:");
-                var numeroDocumento = Console.ReadLine();
+                var numeroDocumento = Helpers.SolicitarNumeroDocumento(tipoDocumento);
 
                 Console.WriteLine("\nDigite a data de emissão do documento:");
                 var dataEmissao = Helpers.LerData("Data de Emissão (dd/mm/aaaa): ");

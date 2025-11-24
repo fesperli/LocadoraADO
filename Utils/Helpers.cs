@@ -103,5 +103,19 @@ namespace Utils
                 Console.WriteLine("Telefone inválido! Digite o DDD seguido do número, totalizando 10 ou 11 dígitos, exemplo: 11912345678.");
             } while (true);
         }
+        public static int LerInteiro(string msgEntrada)
+        {
+            var num = 0;
+            while (true)
+            {
+                Console.WriteLine(msgEntrada);
+                var valida = int.TryParse(Console.ReadLine(), out num);
+
+                if (valida && num < 1)
+                    return num;
+                else
+                    Console.WriteLine("Número inválido! Tente novamente!");
+            }
+        }
     }   
 }

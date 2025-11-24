@@ -27,7 +27,7 @@ namespace Locadora.View.Clientes
                     var emailCliente = Console.ReadLine();
 
                     Console.WriteLine("\nDigite o novo telefone do cliente:");
-                    var telefoneCliente = Console.ReadLine();
+                    var telefoneCliente = Helpers.SolicitarTelefone();
 
                     clienteController.AtualizarTelefoneCliente(telefoneCliente, emailCliente);
                     Console.WriteLine("Telefone do cliente atualizado com sucesso!");

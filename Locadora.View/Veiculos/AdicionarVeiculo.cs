@@ -44,7 +44,7 @@ namespace Locadora.View.Veiculos
                     var modelo = Console.ReadLine();
 
                     Console.WriteLine("\nDigite o ano do veículo: ");
-                    var ano = Convert.ToInt32(Console.ReadLine());
+                    var ano = Helpers.LerInteiro("Digite o ano do veiculo: ");
 
                     var status = EStatusVeiculo.Disponivel.ToString();
 
