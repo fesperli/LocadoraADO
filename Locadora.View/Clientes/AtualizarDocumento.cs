@@ -1,5 +1,6 @@
 ﻿using Locadora.Controller;
 using Locadora.Models;
+using Locadora.Models.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,37 @@ namespace Locadora.View.Clientes
 {
     public class AtualizarDocumento
     {
+        private string SelecionarDocumento()
+        {
+            var option = "";
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("==== SELECIONE O TIPO DE DOCUMENTO ====");
+                Console.WriteLine("1 -> CPF");
+                Console.WriteLine("2 -> RG");
+                Console.WriteLine("3 -> CNH");
+                Console.WriteLine("=======================================");
+                Console.Write("-> ");
+                option = Console.ReadLine() ?? "-1";
+
+                switch (option)
+                {
+                    case "1":
+                        return ETiposDocumentos.CPF.ToString();
+                    case "2":
+                        return ETiposDocumentos.RG.ToString();
+                    case "3":
+                        return ETiposDocumentos.CNH.ToString();
+                    default:
+                        Console.WriteLine("Opção inválida! Tente novamente!");
+                        Helpers.PressionerEnterParaContinuar();
+                        break;
+                }
+            }
+            while (true);
+        }
+
         public void AtualizarDocumentoCliente(ClienteController clienteController)
         {
             try
@@ -31,7 +63,7 @@ namespace Locadora.View.Clientes
                     var tipoDocumento = Console.ReadLine();
 
                     Console.WriteLine("\nDigite o novo número de documento do cliente:");
-                    var numeroDocumento = Console.ReadLine();
+                    var numeroDocumento = SelecionarDocumento();
 
                     Console.WriteLine("\nDigite a data de emissão do documento:");
                     var dataEmissao = Helpers.LerData("Data de Emissão (dd/mm/aaaa): ");
