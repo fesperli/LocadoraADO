@@ -60,7 +60,7 @@ namespace Locadora.View.Locacoes
                     Console.Clear();
                     Console.WriteLine("======= DADOS DA LOCAÇÃO =======");
                     Console.WriteLine("Digite o valor da diária da locação");
-                    var valorDiaria = decimal.Parse(Console.ReadLine());
+                    var valorDiaria = Helpers.LerDecimal("Valor diária: R$ ");
                     Console.Write("\nDigite o número de dias de locação: ");
                     var dias = int.Parse(Console.ReadLine());
 

@@ -3,144 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\adicionarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\adicionarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4E546AC-5F63-4A4C-8827-847F353D3095}|Locadora.Models\\Locadora.Models.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E546AC-5F63-4A4C-8827-847F353D3095}|Locadora.Models\\Locadora.Models.csproj|solutionrelative:locadora.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\adicionarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\adicionarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\atualizarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\atualizarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\adicionarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\adicionarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\veiculomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\veiculomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\categoriasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\categoriasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\listarveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\listarveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\veiculomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\veiculomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\listarveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\listarveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\atualizarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\atualizarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\adicionarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\adicionarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\atualizarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\atualizarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\categoriasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\categoriasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\veiculos\\adicionarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\veiculos\\adicionarveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\adicionarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\adicionarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\atualizarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\atualizarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\atualizarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\atualizarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoesfuncionarios\\verificaralteracoeslocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoesfuncionarios\\verificaralteracoeslocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Models\\Enum\\EStatusLocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locadora.Models\\Enum\\EStatusLocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|solutionrelative:locadora.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Controller\\LocacaoFuncionarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locadora.Controller\\LocacaoFuncionarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\interfaces\\ilocacaofuncionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\interfaces\\ilocacaofuncionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.models\\enum\\estatuslocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|solutionrelative:locadora.models\\enum\\estatuslocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\locacaofuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\locacaofuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\atualizarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\atualizarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\interfaces\\ilocacaofuncionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\interfaces\\ilocacaofuncionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoesfuncionarios\\verificaralteracoeslocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoesfuncionarios\\verificaralteracoeslocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\interfaces\\ilocacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7CC58F-3BB6-485E-9FEF-AF5069CD37CC}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\interfaces\\ilocacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Models\\LocacaoFuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locadora.Models\\LocacaoFuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.models\\locacaofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|solutionrelative:locadora.models\\locacaofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\listarlocacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\listarlocacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.models\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600E2335-9DD0-465B-9329-52C085F8C3BB}|Locadora.Models\\Locadora.Models.csproj|solutionrelative:locadora.models\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\locacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\locacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\cancelarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\cancelarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\listarcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\listarcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\listarlocacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\listarlocacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\excluircategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\excluircategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\locacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\locacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.controller\\interfaces\\ilocacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA48B3-8BF0-472A-A0DF-F4CE8472DB98}|Locadora.Controller\\Locadora.Controller.csproj|solutionrelative:locadora.controller\\interfaces\\ilocacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\listarcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\listarcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\locacoes\\cancelarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\locacoes\\cancelarlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\categorias\\excluircategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\categorias\\excluircategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4E546AC-5F63-4A4C-8827-847F353D3095}|Locadora.Models\\Locadora.Models.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.models\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E546AC-5F63-4A4C-8827-847F353D3095}|Locadora.Models\\Locadora.Models.csproj|solutionrelative:locadora.models\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\listarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\listarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\listarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\listarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\funcionariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\funcionariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\funcionariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\funcionariomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\atualizarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\atualizarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\atualizarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\atualizarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\adcionarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\adcionarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\funcionarios\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\funcionarios\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Funcionarios\\AdcionarFuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Locadora.View\\Funcionarios\\AdcionarFuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\PROCEDURES.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:SQL\\PROCEDURES.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\PROCEDURES.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL\\PROCEDURES.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\CREATE_SCHEMA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:SQL\\CREATE_SCHEMA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\CREATE_SCHEMA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:SQL\\CREATE_SCHEMA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\clientes\\adicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{156423E3-4104-48E0-9EAD-26D88B02300B}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\clientes\\adicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\CREATE_SCHEMA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:SQL\\CREATE_SCHEMA.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\PROCEDURES.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|SQL{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:SQL\\PROCEDURES.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|c:\\users\\fespe\\source\\repos\\locadoraado\\locadora.view\\clientes\\adicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E5C69-5CDB-4046-84BF-3292418169A0}|Locadora.View\\Locadora.View.csproj|solutionrelative:locadora.view\\clientes\\adicionarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,11 +142,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Controller\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "Locadora.Controller\\FuncionarioController.cs",
@@ -162,12 +154,11 @@
               "RelativeToolTip": "Locadora.Controller\\FuncionarioController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:28:47.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:28:47.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "VeiculoMenu.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Veiculos\\VeiculoMenu.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Veiculos\\VeiculoMenu.cs",
@@ -175,12 +166,11 @@
               "RelativeToolTip": "Locadora.View\\Veiculos\\VeiculoMenu.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAwwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:26:19.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:26:19.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ListarVeiculos.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Veiculos\\ListarVeiculos.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Veiculos\\ListarVeiculos.cs",
@@ -188,12 +178,11 @@
               "RelativeToolTip": "Locadora.View\\Veiculos\\ListarVeiculos.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAwwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:26:14.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:26:14.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ExcluirVeiculo.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Veiculos\\ExcluirVeiculo.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Veiculos\\ExcluirVeiculo.cs",
@@ -201,12 +190,11 @@
               "RelativeToolTip": "Locadora.View\\Veiculos\\ExcluirVeiculo.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:26:08.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:26:08.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "AtualizarVeiculo.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Veiculos\\AtualizarVeiculo.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Veiculos\\AtualizarVeiculo.cs",
@@ -214,12 +202,11 @@
               "RelativeToolTip": "Locadora.View\\Veiculos\\AtualizarVeiculo.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAwwEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:26:02.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:26:02.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "AdicionarVeiculo.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Veiculos\\AdicionarVeiculo.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Veiculos\\AdicionarVeiculo.cs",
@@ -227,12 +214,11 @@
               "RelativeToolTip": "Locadora.View\\Veiculos\\AdicionarVeiculo.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAwwEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:25:55.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:25:55.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Locadora.Models\\Categoria.cs",
@@ -245,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CategoriasMenu.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Categorias\\CategoriasMenu.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Categorias\\CategoriasMenu.cs",
@@ -253,12 +239,11 @@
               "RelativeToolTip": "Locadora.View\\Categorias\\CategoriasMenu.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:17:19.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:17:19.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AdicionarCategoria.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Categorias\\AdicionarCategoria.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Categorias\\AdicionarCategoria.cs",
@@ -266,25 +251,24 @@
               "RelativeToolTip": "Locadora.View\\Categorias\\AdicionarCategoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:17:07.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:17:07.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdicionarLocacao.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Locacoes\\AdicionarLocacao.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Locacoes\\AdicionarLocacao.cs",
               "ToolTip": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Locacoes\\AdicionarLocacao.cs",
               "RelativeToolTip": "Locadora.View\\Locacoes\\AdicionarLocacao.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T00:13:48.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "AtualizarLocacao.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Locacoes\\AtualizarLocacao.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Locacoes\\AtualizarLocacao.cs",
@@ -292,12 +276,11 @@
               "RelativeToolTip": "Locadora.View\\Locacoes\\AtualizarLocacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T18:55:55.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T18:55:55.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "EStatusLocacao.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Models\\Enum\\EStatusLocacao.cs",
               "RelativeDocumentMoniker": "Locadora.Models\\Enum\\EStatusLocacao.cs",
@@ -305,12 +288,11 @@
               "RelativeToolTip": "Locadora.Models\\Enum\\EStatusLocacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:22:59.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:22:59.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "LocacaoFuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Controller\\LocacaoFuncionarioController.cs",
               "RelativeDocumentMoniker": "Locadora.Controller\\LocacaoFuncionarioController.cs",
@@ -318,25 +300,23 @@
               "RelativeToolTip": "Locadora.Controller\\LocacaoFuncionarioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:22:08.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILocacaoFuncionariosController.cs",
-              "DocumentMoniker": "C:\\Users\\fespe\\Source\\Repos\\LocadoraADO\\Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
-              "RelativeDocumentMoniker": "Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
-              "ToolTip": "C:\\Users\\fespe\\Source\\Repos\\LocadoraADO\\Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
-              "RelativeToolTip": "Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:21:26.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:22:08.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ILocacaoFuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
+              "RelativeDocumentMoniker": "Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
+              "ToolTip": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
+              "RelativeToolTip": "Locadora.Controller\\Interfaces\\ILocacaoFuncionariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:21:26.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "LocacaoController.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Controller\\LocacaoController.cs",
               "RelativeDocumentMoniker": "Locadora.Controller\\LocacaoController.cs",
@@ -344,12 +324,11 @@
               "RelativeToolTip": "Locadora.Controller\\LocacaoController.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAAgwKAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T15:49:44.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T15:49:44.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AtualizarCategoria.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Categorias\\AtualizarCategoria.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Categorias\\AtualizarCategoria.cs",
@@ -357,12 +336,11 @@
               "RelativeToolTip": "Locadora.View\\Categorias\\AtualizarCategoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:17:13.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:17:13.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "VerificarAlteracoesLocacao.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\LocacoesFuncionarios\\VerificarAlteracoesLocacao.cs",
               "RelativeDocumentMoniker": "Locadora.View\\LocacoesFuncionarios\\VerificarAlteracoesLocacao.cs",
@@ -370,12 +348,11 @@
               "RelativeToolTip": "Locadora.View\\LocacoesFuncionarios\\VerificarAlteracoesLocacao.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAwwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:15:03.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:15:03.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "LocacaoFuncionario.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Models\\LocacaoFuncionario.cs",
               "RelativeDocumentMoniker": "Locadora.Models\\LocacaoFuncionario.cs",
@@ -383,12 +360,11 @@
               "RelativeToolTip": "Locadora.Models\\LocacaoFuncionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:20:53.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:20:53.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "ListarLocacoes.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Locacoes\\ListarLocacoes.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Locacoes\\ListarLocacoes.cs",
@@ -396,12 +372,11 @@
               "RelativeToolTip": "Locadora.View\\Locacoes\\ListarLocacoes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:18:59.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:18:59.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "LocacaoMenu.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Locacoes\\LocacaoMenu.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Locacoes\\LocacaoMenu.cs",
@@ -409,12 +384,11 @@
               "RelativeToolTip": "Locadora.View\\Locacoes\\LocacaoMenu.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T16:24:28.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T16:24:28.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "ListarCategorias.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Categorias\\ListarCategorias.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Categorias\\ListarCategorias.cs",
@@ -422,12 +396,11 @@
               "RelativeToolTip": "Locadora.View\\Categorias\\ListarCategorias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:17:31.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:17:31.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "ExcluirCategoria.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Categorias\\ExcluirCategoria.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Categorias\\ExcluirCategoria.cs",
@@ -435,12 +408,11 @@
               "RelativeToolTip": "Locadora.View\\Categorias\\ExcluirCategoria.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:17:26.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:17:26.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ILocacaoController.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Controller\\Interfaces\\ILocacaoController.cs",
               "RelativeDocumentMoniker": "Locadora.Controller\\Interfaces\\ILocacaoController.cs",
@@ -448,12 +420,11 @@
               "RelativeToolTip": "Locadora.Controller\\Interfaces\\ILocacaoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T19:18:17.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T19:18:17.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "CancelarLocacao.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Locacoes\\CancelarLocacao.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Locacoes\\CancelarLocacao.cs",
@@ -461,12 +432,11 @@
               "RelativeToolTip": "Locadora.View\\Locacoes\\CancelarLocacao.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T18:56:28.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T18:56:28.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Locacao.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.Models\\Locacao.cs",
               "RelativeDocumentMoniker": "Locadora.Models\\Locacao.cs",
@@ -474,8 +444,7 @@
               "RelativeToolTip": "Locadora.Models\\Locacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T15:42:08.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T15:42:08.869Z"
             },
             {
               "$type": "Document",
@@ -487,8 +456,7 @@
               "RelativeToolTip": "Locadora.View\\Funcionarios\\ListarFuncionarios.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:16:05.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:16:05.043Z"
             },
             {
               "$type": "Document",
@@ -500,8 +468,7 @@
               "RelativeToolTip": "Locadora.View\\Funcionarios\\FuncionarioMenu.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:15:58.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:15:58.891Z"
             },
             {
               "$type": "Document",
@@ -513,12 +480,11 @@
               "RelativeToolTip": "Locadora.View\\Funcionarios\\AtualizarFuncionario.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:15:48.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:15:48.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "ExcluirFuncionario.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Funcionarios\\ExcluirFuncionario.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Funcionarios\\ExcluirFuncionario.cs",
@@ -526,12 +492,11 @@
               "RelativeToolTip": "Locadora.View\\Funcionarios\\ExcluirFuncionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:15:53.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:15:53.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "AdcionarFuncionario.cs",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\Locadora.View\\Funcionarios\\AdcionarFuncionario.cs",
               "RelativeDocumentMoniker": "Locadora.View\\Funcionarios\\AdcionarFuncionario.cs",
@@ -539,32 +504,29 @@
               "RelativeToolTip": "Locadora.View\\Funcionarios\\AdcionarFuncionario.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T00:15:40.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:15:40.165Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "PROCEDURES.sql ",
+              "Title": "PROCEDURES.sql",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\PROCEDURES.sql",
               "RelativeDocumentMoniker": "SQL\\PROCEDURES.sql",
               "ToolTip": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\PROCEDURES.sql",
               "RelativeToolTip": "SQL\\PROCEDURES.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-24T00:13:26.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T00:13:26.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "CREATE_SCHEMA.sql ",
+              "Title": "CREATE_SCHEMA.sql",
               "DocumentMoniker": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\CREATE_SCHEMA.sql",
               "RelativeDocumentMoniker": "SQL\\CREATE_SCHEMA.sql",
               "ToolTip": "C:\\Users\\fespe\\source\\repos\\LocadoraADO\\SQL\\CREATE_SCHEMA.sql",
               "RelativeToolTip": "SQL\\CREATE_SCHEMA.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-22T19:00:14.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T19:00:14.555Z"
             },
             {
               "$type": "Document",
@@ -576,8 +538,7 @@
               "RelativeToolTip": "Locadora.View\\Clientes\\AdicionarCliente.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T16:09:04.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T16:09:04.85Z"
             }
           ]
         }
